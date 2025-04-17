@@ -3,7 +3,7 @@ About the Project
 The Food Munch landing page is designed for food enthusiasts who are looking for a platform to explore various food options. The page provides essential information, an engaging UI, and an easy-to-navigate layout to make browsing and interacting with the content a seamless experience.
 
 Live Demo
-Live Site
+[Live Demo](https://manojfoodmunchr.ccbp.tech)
 
 Project Structure
 food-munch/
